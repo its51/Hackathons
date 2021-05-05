@@ -31,4 +31,4 @@ Following are the features of the dataset
 |(ID)|The identification record of every observation |
 
 > ## Evaluation Metric
-The evaluation metric for this task will be precision_score.
+The evaluation metric is precision_score for classification model 
