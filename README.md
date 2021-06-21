@@ -1,6 +1,6 @@
 ## Travel Insurance Prediction -Hackathon
 
->★ Note To view the plotly graphs click on open in colab option after clicking on iPynb file
+<a href="https://colab.research.google.com/github/its51/Travel-Insurance-Prediction---Hackathon/blob/master/Final_Travel_Insurance_Claim_Team_Kernel_Matters_edit.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
 
 > ## Problem Description
